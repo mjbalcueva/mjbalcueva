@@ -18,10 +18,11 @@
 <br />
 
 - 🏫 I am a `Junior` at [University of Santo Tomas - Legazpi](https://ust-legazpi.edu.ph).
-- 👷‍♂️ Currently a P.R.O. in [Computer Science Society](https://www.facebook.com/cssustlegazpi), a student body organization.
+- 👷 Currently a P.R.O. in [Computer Science Society](https://www.facebook.com/cssustlegazpi), a student body organization.
 - 💻 I love using Software as a solution for every `Problem`.
 - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 - 🤤 I love `learning new things`.
+- 🤔 I’m currently open for a new `job opportunity`.
 
 <br />
 <hr />
