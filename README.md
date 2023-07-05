@@ -43,7 +43,7 @@
 <!-- Fun -->
 <h2> 🐍 A Snake Eating my Contributions Graph </h2>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/mjbalcueva/mjbalcueva/snek/snek.svg" alt = "Snek"/>
 </p>
 
 <!-- custom divider -->
