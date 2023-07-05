@@ -1,18 +1,3 @@
-<!--
-**mjbalcueva/mjbalcueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -31,10 +16,12 @@ Here are some ideas to get you started:
   <summary>
     <h2>💻 Profile Stats</h2>
   </summary>
-
-| <a href="https://github.com/mjbalcueva"><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></td>
+    </tr>
+  </table>
 </details>
 
 <details>
