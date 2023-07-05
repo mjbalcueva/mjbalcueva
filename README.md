@@ -16,18 +16,16 @@
   <summary>
     <h2>💻 Profile Stats</h2>
   </summary>
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></td>
-    </tr>
-  </table>
+  <hr />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" />
 </details>
 
 <details>
   <summary>
     <h2>🔥 Streak Stats</h2>
   </summary>
+  <hr />
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 </details>
 
