@@ -22,12 +22,8 @@
     <h3>💻 Profile Stats</h3>
   </summary>
   <hr />
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></td>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></td>
-    </tr>
-  </table>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=transparent " alt="GitHub Stats" />
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=transparent &layout=compact&card_width=320" />
 </details>
 <!-- Steak -->
 <details>
