@@ -1,24 +1,24 @@
 <!-- custom divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./resources/seperator.gif">
 
 <!-- Heading -->
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Mac
+  Hi there! I'm Mac <img src="./resources/hand.gif" width="35">
 </h1>
 <!-- Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Your+full+stack+cutie;Always+learning+new+things;CS+Student+at+UST-Legazpi;Modern%2C+Fast%2C+Efficient" alt="Typing SVG" /></a>
+  <img src="./resources/typing.svg">
 </div>
 <!-- About -->
 <h2>
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
+  <img src = "./resources/hackerman.gif" width = 50px> About me
 </h2>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px>
+<img align="right" src="./resources/computerman.gif" width = 200px>
 <br />
 
 - 🏫 I am a `Junior` at [University of Santo Tomas - Legazpi](https://ust-legazpi.edu.ph).
-- 👷 Currently a P.R.O. in [Computer Science Society](https://www.facebook.com/cssustlegazpi), a student body organization.
+- 👷 A student leader in [Computer Science Society](https://www.facebook.com/cssustlegazpi).
 - 💻 I love using Software as a solution for every `Problem`.
 - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 - 🤤 I love `learning new things`.
@@ -29,12 +29,12 @@
 
 <!-- Skills -->
 <h2>
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> Skills
+  <img src = "./resources/factory.gif" width = 50px> Skills
 </h2>
 
 <!-- Github Stats -->
 <h2>
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> Github Stats
+  <img src = "./resources/graph.gif" width = 50px> Github Stats
 </h2>
 <!-- Profile -->
 <details>
@@ -100,8 +100,8 @@
 <!-- Fun -->
 <h2> 🐍 Snake eating my contributions ＞﹏＜ </h2>
 <p align = "center">
-	<img src = "https://raw.githubusercontent.com/mjbalcueva/mjbalcueva/snek/snek.svg" alt = "Snek"/>
+	<img src = "./resources/snake.svg" alt = "Snek"/>
 </p>
 
 <!-- custom divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./resources/seperator.gif">
