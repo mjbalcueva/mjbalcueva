@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Core
       </h3>
@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Frontend
       </h3>
@@ -100,7 +100,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Backend
       </h3>
@@ -132,7 +132,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Component Library
       </h3>
@@ -156,7 +156,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Other technologies
       </h3>
@@ -188,7 +188,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td valign="center">
       <h3>
         Tools
       </h3>
