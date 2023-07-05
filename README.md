@@ -70,7 +70,7 @@
   <tr>
     <td>
       <h3>
-        Frontend
+        Stack
       </h3>
     </td>
     <td>
@@ -89,23 +89,6 @@
       </a>
     </td>
     <td>
-      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-        <img src="./resources/prisma_orm.svg" width="36" height="36" alt="Prisma Orm" />
-      </a>
-    </td>
-    <td>
-      <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-        <img src="./resources/drizzle_orm.svg" width="36" height="36" alt="Drizzle Orm" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>
-        Backend
-      </h3>
-    </td>
-    <td>
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
       </a>
@@ -113,6 +96,23 @@
     <td>
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        Database/API
+      </h3>
+    </td>
+    <td>
+      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+        <img src="./resources/prisma_orm.svg" width="36" height="36" alt="Prisma Orm" />
+      </a>
+    </td>
+    <td>
+      <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+        <img src="./resources/drizzle_orm.svg" width="36" height="36" alt="Drizzle Orm" />
       </a>
     </td>
     <td>
