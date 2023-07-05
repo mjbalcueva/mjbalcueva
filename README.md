@@ -19,31 +19,60 @@
 <!-- Profile -->
 <details>
   <summary>
-    <h3>💻 Profile Stats</h3>
+    <h3>💻 Profile</h3>
   </summary>
   <hr />
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=transparent&layout=compact&card_width=320" />
+  <table align="center">
+    <tr>
+      <td>
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark&include_all_commits=true" alt="Stats" />
+      </td>
+      <td>
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&theme=github_dark&layout=compact&card_width=320" alt="Stats" />
+      </td>
+    </tr>
+  </table>
 </details>
 <!-- Steak -->
 <details>
   <summary>
-    <h3>🔥 Streak Stats</h3>
+    <h3>🔥 Streak</h3>
   </summary>
   <hr />
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=github_dark" alt="Stats" />
+  </p>
 </details>
 <!-- Trophies -->
 <details>
   <summary>
-    <h3>🏆 Profile Trophies </h3>
+    <h3>🏆 Trophies</h3>
   </summary>
   <hr />
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=mjbalcueva&layout=compact&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="7oskaaa" />
   </p>
+</details>
+<!-- Repositories -->
+<details>
+  <summary>
+    <h3>⚒️ Currently working on:</h3>
+  </summary>
+  <hr />
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/mjbalcueva/child-tr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjbalcueva&repo=child-tr&show_owner=true&theme=github_dark" alt="repo" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mjbalcueva/fireworks-vscode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjbalcueva&repo=fireworks-vscode&show_owner=true&theme=github_dark" alt="repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <hr />
