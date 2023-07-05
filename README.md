@@ -50,7 +50,7 @@
   </summary>
   <hr />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mjbalcueva&layout=compact&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="7oskaaa" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mjbalcueva&layout=compact&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="trophies" />
   </p>
 </details>
 <!-- Repositories -->
