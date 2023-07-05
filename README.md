@@ -12,9 +12,15 @@
 <div align="center">
 </div>
 
+<hr />
+
+<h2>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> Github Stats
+</h2>
+
 <details>
   <summary>
-    <h2>💻 Profile Stats</h2>
+    <h3>💻 Profile Stats</h3>
   </summary>
   <hr />
   <table>
@@ -27,7 +33,7 @@
 
 <details>
   <summary>
-    <h2>🔥 Streak Stats</h2>
+    <h3>🔥 Streak Stats</h3>
   </summary>
   <hr />
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=tokyonight_duo" alt="7oSkaaa" /></p>
