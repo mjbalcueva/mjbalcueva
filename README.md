@@ -148,6 +148,8 @@
         <img src="./resources/headless-ui.svg" width="36" height="36" alt="headless ui" />
       </a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>
@@ -207,6 +209,7 @@
         <img src="./resources/canva.svg" width="36" height="36" alt="canva" />
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
