@@ -13,9 +13,9 @@
 <h2>
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
 </h2>
-<br />
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px>
+<br />
 
 - 🏫 I am a `Junior` at [University of Santo Tomas - Legazpi](https://ust-legazpi.edu.ph).
 - 👷‍♂️ Currently a P.R.O. in [Computer Science Society](https://www.facebook.com/cssustlegazpi), a student body organization.
