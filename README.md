@@ -17,8 +17,12 @@
     <h2>💻 Profile Stats</h2>
   </summary>
   <hr />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></td>
+    </tr>
+  </table>
 </details>
 
 <details>
