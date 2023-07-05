@@ -27,6 +27,11 @@
 <br />
 <hr />
 
+<!-- Skills -->
+<h2>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> Skills
+</h2>
+
 <!-- Github Stats -->
 <h2>
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> Github Stats
