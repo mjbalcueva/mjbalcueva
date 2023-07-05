@@ -37,6 +37,18 @@
   <hr />
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 </details>
+<!-- Trophies -->
+<details>
+  <summary>
+    <h3>🏆 Profile Trophies </h3>
+  </summary>
+  <hr />
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" />
+    </a>
+  </p>
+</details>
 
 <hr />
 
