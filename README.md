@@ -31,8 +31,10 @@ Here are some ideas to get you started:
   <summary>
     <h2>💻 Profile Stats</h2>
   </summary>
-  | <a href="https://github.com/mjbalcueva"><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></a> |
-  | ------------- | ------------- |
+
+| <a href="https://github.com/mjbalcueva"><img src="https://github-readme-stats.vercel.app/api?username=mjbalcueva&show_icons=true&theme=github_dark" alt="GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbalcueva&show_icons=true&theme=github_dark&layout=compact" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 </details>
 
 <details>
