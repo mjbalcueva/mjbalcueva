@@ -31,6 +31,9 @@
 <h2>
   <img src = "./resources/factory.gif" width = 50px> My skills
 </h2>
+
+<br />
+
 <table>
   <tr>
     <td>
@@ -103,6 +106,7 @@
       </h3>
     </td>
     <td>
+      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
       </a>
     </td>
