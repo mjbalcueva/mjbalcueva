@@ -38,11 +38,13 @@
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mjbalcueva&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 </details>
 
-<!-- custom divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr />
 
 <!-- Fun -->
 <h2> 🐍 A Snake Eating my Contributions Graph </h2>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<!-- custom divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
