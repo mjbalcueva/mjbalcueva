@@ -41,7 +41,7 @@
 <hr />
 
 <!-- Fun -->
-<h2> 🐍 A Snake Eating my Contributions Graph </h2>
+<h2> 🐍 Snake eating my contributions ＞﹏＜ </h2>
 <p align = "center">
 	<img src = "https://raw.githubusercontent.com/mjbalcueva/mjbalcueva/snek/snek.svg" alt = "Snek"/>
 </p>
