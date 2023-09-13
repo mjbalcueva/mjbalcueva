@@ -20,8 +20,8 @@
 - 🏫 I am a `Junior` at [University of Santo Tomas - Legazpi](https://ust-legazpi.edu.ph).
 - 👷 A student leader in [Computer Science Society](https://www.facebook.com/cssustlegazpi).
 - ☕ I love using Software as a solution for every `Problem`.
-- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 - 🤤 I love `learning new things`.
+- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 - 🤔 I’m currently open for a new `job opportunity`.
 
 <br />
@@ -262,7 +262,7 @@
   </p>
 </details>
 <!-- Repositories -->
-<details>
+<!-- <details>
   <summary>
     <h3>⚒️ Currently working on:</h3>
   </summary>
@@ -281,7 +281,7 @@
       </td>
     </tr>
   </table>
-</details>
+</details> -->
 
 <br />
 
