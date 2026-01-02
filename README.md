@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="right">
 
-I'm a **Full Stack Software Engineer** at Quanby Solutions, Inc., with expertise in building scalable, AI-driven applications and Fintech solutions. A Computer Science graduate from [UST - Legazpi](https://ust-legazpi.edu.ph), I lead a team of 5 developers, specializing in **Next.js**, **TypeScript**, and modern full-stack architectures. I'm passionate about architecting complex systems, integrating AI features, and delivering high-quality solutions in agile environments. Open to collaboration and new opportunities.
+I'm a **Full Stack Software Engineer** at Quanby Solutions, Inc., with expertise in building scalable, AI-driven applications and Fintech solutions. A Computer Science graduate from [UST - Legazpi](https://ust-legazpi.edu.ph), I specialize in **Next.js**, **TypeScript**, and modern full-stack architectures. I'm passionate about architecting complex systems, integrating AI features, and delivering high-quality solutions in agile environments. Open to collaboration and new opportunities.
 
 <p>
   <a href="https://www.linkedin.com/in/mj-balcueva/">
