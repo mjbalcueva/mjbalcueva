@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="right">
 
-I'm a motivated **Full Stack Web Developer** and computer science student at [UST - Legazpi](https://ust-legazpi.edu.ph). Skilled in **Next.js**, **Prisma**, and **Tailwind CSS**, I specialize in integrating AI-driven features to enhance user experiences. Open to collaboration and opportunities to grow in a dynamic development environment.
+I'm a **Full Stack Software Engineer** at Quanby Solutions, Inc., with expertise in building scalable, AI-driven applications and Fintech solutions. A Computer Science graduate from [UST - Legazpi](https://ust-legazpi.edu.ph), I lead a team of 5 developers, specializing in **Next.js**, **TypeScript**, and modern full-stack architectures. I'm passionate about architecting complex systems, integrating AI features, and delivering high-quality solutions in agile environments. Open to collaboration and new opportunities.
 
 <p>
   <a href="https://www.linkedin.com/in/mj-balcueva/">
@@ -23,25 +23,33 @@ I'm a motivated **Full Stack Web Developer** and computer science student at [US
 
 <h2>⚡️ Quick Facts</h2>
 
-- 🌐 Currently focusing on **Full Stack Development** with Next.js and TypeScript
-- 🎯 Building modern web applications with **React** and **Next.js**
-- 🛠️ Love working with **TypeScript**, **Tailwind**, and **Shadcn UI**
+- 💼 Currently working as **Software Engineer** at Quanby Solutions, Inc.
+- 🎯 Building scalable full-stack applications
+- 🛠️ Specialized in **Next.js**, **TypeScript**, **React**, and **Docker** for production-ready solutions
+- 🤖 Experienced in architecting **AI-driven applications** and **Fintech solutions**
 - 📚 Always learning and exploring new technologies
-- 🤝 Open for collaboration and job opportunities
+- 🤝 Open for collaboration and exciting opportunities
 
 <h2>⚙️ Tech Stack</h2>
 
 <p>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJs"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS"/>
   <img height="36" src="./resources/shadcn.svg" alt="Shadcn UI"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git"/>
   <img height="36" src="./resources/prisma_orm.svg" alt="Prisma Orm"/>
   <img height="36" src="./resources/drizzle_orm.svg" alt="Drizzle Orm"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL"/>
   <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" alt="React Native"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter"/>
+  <img height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel"/>
 </p>
 
 <h2>🚀 Quick Stats</h2>
